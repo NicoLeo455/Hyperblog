@@ -1,7 +1,6 @@
 ﻿Habia una vez, un chico llamado Nicolas Santivañez
 
-Él estudia Machine Learning Engineer en Platzi, es muy aplicado
-Tiene 28 y tiene un nivel medio de inglés
-Y toca la guitarra!
+Él estudia ciencias de datos en Platzi, es un buen estudiante
+Tiene 28 y tiene un nivel básico/medio de inglés
 
-Y esta buscando trabajo referido a tecnologia con la ayuda de Ingles!
+Mañana nos enfocaremos en vi desempeño
